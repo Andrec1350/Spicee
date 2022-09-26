@@ -11,7 +11,7 @@ When you open the app, you are greeted by the log-in form:
 
 After a successful log-in, the main page pops up. 
 
-Here you can see your friends and all your friendship requests.
+Here you can see your friends and all your received friendship requests.
 
 ![Home panel](images/Home.jpg)
 
