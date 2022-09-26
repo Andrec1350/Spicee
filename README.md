@@ -8,3 +8,10 @@ The app is actually a client that resembles a rudimentary social media platform 
 When you open the app, you are greeted by the log-in form:
 
 ![Log-in panel](images/LogIn.jpg)
+
+After a successful log-in, the main page pops up. 
+
+Here you can see your friends and all your friendship requests.
+
+![Home panel](images/Home.jpg)
+
