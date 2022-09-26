@@ -29,3 +29,5 @@ The ”Reports” panel's purpouse is listing the activity you've had in relatio
 
 ![Reports panel](images/Reports.jpg)
 
+![Instance of a report](images/Instance.jpg)
+
