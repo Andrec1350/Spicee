@@ -21,3 +21,7 @@ You can also create groups where multiple people can send and receive messages.
 
 ![Messages panel](images/Messages.jpg)
 
+If you want to become friends with other users, you can go to the ”Friends” page. Here you can find new people and send them friendship requests, or you can respond to the requests other users have sent you. 
+
+![Friends panel](images/Friends.jpg)
+
