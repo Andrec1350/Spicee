@@ -25,3 +25,7 @@ If you want to become friends with other users, you can go to the ”Friends” 
 
 ![Friends panel](images/Friends.jpg)
 
+The ”Reports” panel is for listing the activity you had in relation to another user or betweeen a certain period of time.
+
+![Reports panel](images/Reports.jpg)
+
